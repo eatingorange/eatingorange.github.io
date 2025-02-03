@@ -19,7 +19,7 @@ function Website() {
             </button>
 
             <img src="images/shimapic.jpg" alt="shimapic" className="main-image" />
-            <a href="#" className="title">daniel yang</a>
+            <a href="#" className="title">daniel chu yang</a>
             
             <div className="description">
                 <p>mathematics/financial analysis & risk management @ uw</p>
